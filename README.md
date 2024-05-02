@@ -1,5 +1,4 @@
 # graspnetAPI
-<<<<<<< HEAD
 Applicable to aarch64 system architecture
 =======
 [![PyPI version](https://badge.fury.io/py/graspnetAPI.svg)](https://badge.fury.io/py/graspnetAPI)
